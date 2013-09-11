@@ -1,0 +1,6 @@
+9,hadisa,Ali,Norozi,98,088984,ComputerSience
+88,jhjh,hjkh,hjvhgf,99,9809899,ComputerSience
+88,uiihj,jhjh,jhjh,89,87,ComputerSience
+9,hadisa,Ali,norozi,8,08989,Science
+99,hadisa,Ali,Norozi,9,9877087908,Science
+8,hadisa,Ali,Norozi,98,98908908,Science
